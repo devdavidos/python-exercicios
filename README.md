@@ -1,5 +1,5 @@
-<h1>Python Exercicios
-  <h3>List:
+<h1>Python Exercicios</h1>
+  <h3>List:</h3>
     <ol>
       <li>Hello Wordl!</li>
       <li>Mensagens de boas vindas!</li>
